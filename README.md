@@ -10,6 +10,7 @@ The Machine Learning model takes 5 IR scores:
 * BM 25
 * Unigram LM with Laplace smoothing
 * Unigram LM Unigram LM with Jelinek-Mercer smoothing 
+
 as features.
 
 The model fits on a [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression) algorithm.
