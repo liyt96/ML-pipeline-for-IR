@@ -10,8 +10,8 @@ The Machine Learning model takes 5 IR scores:
 * Okapi TF
 * TF IDF
 * BM 25
-* Unigram LM with Laplace smoothing
-* Unigram LM with Jelinek-Mercer smoothing 
+* Unigram Language Model with Laplace smoothing
+* Unigram Language Model with Jelinek-Mercer smoothing 
 
 as features. The scores are calculated by the documents and the queries.
 
