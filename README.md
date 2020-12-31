@@ -6,14 +6,14 @@ A Machine Learning pipeline for Information Retrieval.
 
 ### Feature Engineering
 
-The Machine Learning model takes 5 IR scores: 
+The Machine Learning model takes 5 Information Retrieval Scores: 
 * Okapi TF
 * TF IDF
 * BM 25
 * Unigram Language Model with Laplace smoothing
 * Unigram Language Model with Jelinek-Mercer smoothing 
 
-as features. The scores are calculated by the documents and the queries.
+as *features*. The scores are calculated by the documents given the queries.
 
 ### Why Linear Regression?
 
