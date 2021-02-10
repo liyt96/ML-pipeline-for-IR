@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A Machine Learning pipeline for Information Retrieval.
+A Machine Learning pipeline for Information Retrieval. Builds a search engine for news articles in the end.
 
 ### Feature Engineering
 
